@@ -5,8 +5,8 @@ CMSimple Japanese
 
 Ver4.5.4.jp1  
 * for CMSimple Ver4.5.4  
-* /cmsimple/languages/ja.php : For Ver4.5.4
-* /plugins/******/languages/ja.php For Ver4.0.4 ... Sorry
+/cmsimple/languages/ja.php : For Ver4.5.4   
+/plugins/******/languages/ja.php For Ver4.0.4 ... Sorry
 
 * Including  
  * 
@@ -20,6 +20,7 @@ Ver4.5.4.jp1
 2.Open cmsimple  
 3.Upload it to your cmsimple site  
 
+ex.  
    cmsimple  
      -/cmsimple/languages/ja.php  ---> (your cmsimple)/cmsimple/languages/ja.php  
      -/plugins/filebrowser/languages/ja.php  ---> (your cmsimple)/plugins/filebrowser/languages/ja.php  
