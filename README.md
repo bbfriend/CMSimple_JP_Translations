@@ -3,8 +3,10 @@ CMSimple Japanese
    For CMSimple   http://www.cmsimple.org/  
 
 
-Ver4.0.4.jp1  
-* for CMSimple Ver4.0.4
+Ver4.5.4.jp1  
+* for CMSimple Ver4.5.4  
+* /cmsimple/languages/ja.php : For Ver4.5.4
+* /plugins/******/languages/ja.php For Ver4.0.4 ... Sorry
 
 * Including  
  * 
@@ -15,10 +17,14 @@ Ver4.0.4.jp1
 
 ## Instructions
 1.Unzip  
-2.Open cmsimple_xh  
-3.Upload it to your cmsimple_xh site  
+2.Open cmsimple  
+3.Upload it to your cmsimple site  
 
-   cmsimple_xh  
-     -/cmsimple/languages/ja.php  ---> (your cmsimple_xh)/cmsimple/languages/ja.php  
-     -/plugins/filebrowser/languages/ja.php  ---> (your cmsimple_xh)/plugins/filebrowser/languages/ja.php  
+   cmsimple  
+     -/cmsimple/languages/ja.php  ---> (your cmsimple)/cmsimple/languages/ja.php  
+     -/plugins/filebrowser/languages/ja.php  ---> (your cmsimple)/plugins/filebrowser/languages/ja.php  
         .....
+  
+   
+   
+CMSimple_XH Japanese Translations is Here!! https://github.com/bbfriend/CMSimple_XH_JP_Translations
